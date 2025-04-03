@@ -137,10 +137,11 @@ Here are some projects I'm proud of. Check out my repositories for more!
 ### 📊 GitHub Stats
 
 <!-- Uncomment below lines and replace 'sahilahmed21' with your username if needed -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilahmed21&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="sahilahmed21's GitHub stats" />
 </p>
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahmed21&layout=compact&theme=radical" alt="Top Languages" />
 </p>
